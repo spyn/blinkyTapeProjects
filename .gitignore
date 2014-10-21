@@ -1,0 +1,12 @@
+# maybe
+
+*.py[cod]
+build/
+env/
+dist/
+
+# ignore config files
+
+bamboo.json
+
+
