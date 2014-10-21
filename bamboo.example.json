@@ -1,0 +1,14 @@
+{ 
+	"usbport" : "/dev/tty.usbmodem1421",
+	"username" : "***", 
+  	"password" : "***", 
+  	"server" : "http://your.bamboo.server:8085",
+  	"cycle" : 60,
+  	"projects" : [{
+  			"project" : "PROJECT-CI",
+  			"colour" : [{ "r" : 255, "g" : 204, "b":0 }]
+  		}, {
+  			"project" : "PROJECT-CI4",
+  			"colour" : [{ "r" : 69, "g" : 156, "b" : 255 }]
+  		}]
+}
